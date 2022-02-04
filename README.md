@@ -1,5 +1,4 @@
 # Cubo3D
-# light effect
 
 <table>
 <thead>
